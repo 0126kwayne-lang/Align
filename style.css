@@ -1,0 +1,30 @@
+body{
+    background-color: black;
+    color: white;
+}
+.container{
+    width: 100%;
+    overflow: hidden;
+}
+.box{
+    float: left;
+    width: 33.33%;
+    padding: 15px;
+    color: white;
+    box-sizing: border-box;
+}
+.LeftAlign{
+    background-color: aqua;
+    border: 3px solid yellow;
+
+}
+    
+.CenterAlign{
+    background-color: crimson;
+    border: 3px solid darkblue;
+
+}
+.RightAlign{
+    background-color: whitesmoke;
+    border: 5px solid gray;
+}
